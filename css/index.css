@@ -383,7 +383,7 @@ header p{
 	float: right;
 }
 .main5 > div:nth-child(5) p{
-	padding-top: 0.125rem
+	padding-top: 0.25rem
 }
 .main5 > div:nth-child(6) p{
 	padding-left: 0.95rem;
